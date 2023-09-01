@@ -40,38 +40,38 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 
 ## Syllabus
 
-| Week | Date | Type | Description | Debate | Slides  |
-|:-----|:-----|:-----|:------------|--------|---------|
-| [1](#week-1-introduction) | 9/11 | - | Introduction |
-| [2](#week-2-the-science-of-career) | 9/18 | "science" | The Science of Career | Debate 1 |
-| [3](#week-3-the-science-of-collaboration-i) | 9/25 | "science" | The Science of Collaboration (I) | Debate 2 |
-| [4](#week-4-the-science-of-collaboration-ii) | 10/2 | "science" | The Science of Collaboration (II) | Debate 3 |
-| [5](#week-5-presentation-of-visualization-projects) | 10/16 | - | Presentation of Visualization Projects |
-| [6](#week-6-the-science-of-impact) | 10/23 | "science" | The Science of Impact |  Debate 4 |
-| [7](#week-7-research-as-a-social-process) | 10/30 | "art" | Research as a Social Process |
-| [8](#week-8-on-working-with-your-advisor) | 11/6 | "art" | On Working With Your Advisor |
-| [9](#week-9-on-writing-papers) | 11/13 | "art" | On Writing Papers |
-| [10](#week-10-on-responsible-research) | 11/20 | "art" | On Responsible Research |
-| [11](#week-11-paper-presentation-i) | 11/27 | "science" | Paper Presentations (I) |
-| [12](#week-12-paper-presentation-ii) | 12/4 | "science" | Paper Presentations (II) |
+| Week                                                | Date  | Type      | Description                            | Debate                | Slides |
+|:----------------------------------------------------|:------|:----------|:---------------------------------------|-----------------------|--------|
+| [1](#week-1-introduction)                           | 9/11  | -         | Introduction                           |                       |        |
+| [2](#week-2-the-science-of-career)                  | 9/18  | "science" | The Science of Career                  | [Topic 1](debates.md) |        |
+| [3](#week-3-the-science-of-collaboration-i)         | 9/25  | "science" | The Science of Collaboration (I)       | [Topic 2](debates.md) |        |
+| [4](#week-4-the-science-of-collaboration-ii)        | 10/2  | "science" | The Science of Collaboration (II)      | [Topic 3](debates.md) |        |
+| [5](#week-5-presentation-of-visualization-projects) | 10/16 | -         | Presentation of Visualization Projects |                       |        |
+| [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md) |        |
+| [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                       |        |
+| [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                       |        |
+| [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                       |        |
+| [10](#week-10-on-responsible-research)              | 11/20 | "art"     | On Responsible Research                |                       |        |
+| [11](#week-11-paper-presentation-i)                 | 11/27 | "science" | Paper Presentations (I)                |                       |        |
+| [12](#week-12-paper-presentation-ii)                | 12/4  | "science" | Paper Presentations (II)               |                       |        |
 
 ## Grades
 
-| Weight | Component |
-|:-------|:----------|
-| 15% | [Debate participation](debates.md) |
-| 15% | [Paper presentation](paper-presentation.md) |
-| 20% | [Visualization project](project-vis.md) |
-| 40% | [Final project](project-final.md) |
-| 10% | Class participation |
+| Weight | Component                                   |
+|:-------|:--------------------------------------------|
+| 15%    | [Debate participation](debates.md)          |
+| 15%    | [Paper presentation](paper-presentation.md) |
+| 20%    | [Visualization project](project-vis.md)     |
+| 40%    | [Final project](project-final.md)           |
+| 10%    | Class participation                         |
 
 ## Assignments
 
 In addition to weekly preparation (readings and other material), the course will have the following assignments:
 
 + [Preparation and participation in a debate.](debates.md) These debates will be scattered throughout the semester, where the debate topics will be complementary to the topic of that week.
-+ [Presentation of a paper on the science of science](paper-presentation.md) (due Weeks 11 and 12).
 + [Visualization project](project-vis.md) (due Week 5).
++ [Presentation of a paper on the science of science](paper-presentation.md) (due Weeks 11 and 12).
 + [Final project](project-final.md) due at the end of the semester.
 
 ## Detailed Schedule
@@ -88,7 +88,7 @@ In addition to weekly preparation (readings and other material), the course will
 
 🚧 Content to be added!
 
-### Week 3: The Science of Collaboration (II)
+### Week 4: The Science of Collaboration (II)
 
 🚧 Content to be added!
 
