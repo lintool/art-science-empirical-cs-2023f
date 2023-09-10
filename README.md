@@ -40,20 +40,20 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 
 ## Syllabus
 
-| Week                                                | Date  | Type      | Description                            | Debate                | Slides |
-|:----------------------------------------------------|:------|:----------|:---------------------------------------|-----------------------|--------|
-| [1](#week-1-introduction)                           | 9/11  | -         | Introduction                           |                       |        |
-| [2](#week-2-the-science-of-career)                  | 9/18  | "science" | The Science of Career                  | [Topic 1](debates.md) |        |
-| [3](#week-3-the-science-of-collaboration-i)         | 9/25  | "science" | The Science of Collaboration (I)       | [Topic 2](debates.md) |        |
-| [4](#week-4-the-science-of-collaboration-ii)        | 10/2  | "science" | The Science of Collaboration (II)      | [Topic 3](debates.md) |        |
-| [5](#week-5-presentation-of-visualization-projects) | 10/16 | -         | Presentation of Visualization Projects |                       |        |
-| [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md) |        |
-| [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                       |        |
-| [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                       |        |
-| [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                       |        |
-| [10](#week-10-on-responsible-research)              | 11/20 | "art"     | On Responsible Research                |                       |        |
-| [11](#week-11-paper-presentation-i)                 | 11/27 | "science" | Paper Presentations (I)                |                       |        |
-| [12](#week-12-paper-presentation-ii)                | 12/4  | "science" | Paper Presentations (II)               |                       |        |
+| Week                                                | Date  | Type      | Description                            |         Debate         |          Slides          |
+|:----------------------------------------------------|:------|:----------|:---------------------------------------|:----------------------:|:------------------------:|
+| [1](#week-1-introduction)                           | 9/11  | -         | Introduction                           |                        | [PDF](slides/week01.pdf) |
+| [2](#week-2-the-science-of-career)                  | 9/18  | "science" | The Science of Career                  | [Topic 1](debates.md)  |                          |
+| [3](#week-3-the-science-of-collaboration-i)         | 9/25  | "science" | The Science of Collaboration (I)       | [Topic 2](debates.md)  |                          |
+| [4](#week-4-the-science-of-collaboration-ii)        | 10/2  | "science" | The Science of Collaboration (II)      | [Topic 3](debates.md)  |                          |
+| [5](#week-5-presentation-of-visualization-projects) | 10/16 | -         | Presentation of Visualization Projects |                        |                          |
+| [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md)  |                          |
+| [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                        |                          |
+| [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                        |                          |
+| [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                        |                          |
+| [10](#week-10-on-responsible-research)              | 11/20 | "art"     | On Responsible Research                |                        |                          |
+| [11](#week-11-paper-presentation-i)                 | 11/27 | "science" | Paper Presentations (I)                |                        |                          |
+| [12](#week-12-paper-presentation-ii)                | 12/4  | "science" | Paper Presentations (II)               |                        |                          |
 
 ## Grades
 
@@ -78,11 +78,18 @@ In addition to weekly preparation (readings and other material), the course will
 
 ### Week 1: Introduction
 
-🚧 Content to be added!
+**Slides:** [[PDF](slides/week01.pdf)]
+
+For more details on normative vs. positive approaches, Wikipedia provides a good starting point: [Positivism](https://en.wikipedia.org/wiki/Positivism) and [Normativity](https://en.wikipedia.org/wiki/Normativity).
 
 ### Week 2: The Science of Career
 
-🚧 Content to be added!
+**Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Career (pages 5-80).
+
+We'll be having our debate on Topic 1: How should we evaluate excellence? Quality _only_ or quality _and_ quantity?
+
++ Position A: Researchers should be evaluated _solely_ on the quality of their publications. Quantity is irrelevant and we shouldn't even bother counting.
++ Position B: Researchers should be evaluated on _both_ the quality _and_ quantity of their publications. High-quality publications are of course important, but quantity is also an important component of excellence.
 
 ### Week 3: The Science of Collaboration (I)
 
