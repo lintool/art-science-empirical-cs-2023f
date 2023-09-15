@@ -63,7 +63,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | 15%    | [Paper presentation](paper-presentation.md)        | Presentation of a paper on the science of science. Due to week 5.                                                                         |
 | 20%    | [Visualization project](project-vis.md)            | Due Weeks 11 and 12.                                                                                                                      |
 | 40%    | [Final project](project-final.md)                  | Due at the end of the semester.                                                                                                           |
-| 10%    | Class participation                                | Weekly preparation (readings and other material)                                                                                          |
+| 10%    | Class participation                                | Weekly preparation (readings and other material).                                                                                         |
 
 ## Detailed Schedule
 
