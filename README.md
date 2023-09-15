@@ -55,24 +55,15 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [11](#week-11-paper-presentation-i)                 | 11/27 | "science" | Paper Presentations (I)                |                        |                          |
 | [12](#week-12-paper-presentation-ii)                | 12/4  | "science" | Paper Presentations (II)               |                        |                          |
 
-## Grades
+## Grades and Assignments
 
-| Weight | Component                                   |
-|:-------|:--------------------------------------------|
-| 15%    | [Debate participation](debates.md)          |
-| 15%    | [Paper presentation](paper-presentation.md) |
-| 20%    | [Visualization project](project-vis.md)     |
-| 40%    | [Final project](project-final.md)           |
-| 10%    | Class participation                         |
-
-## Assignments
-
-In addition to weekly preparation (readings and other material), the course will have the following assignments:
-
-+ [Preparation and participation in a debate.](debates.md) These debates will be scattered throughout the semester, where the debate topics will be complementary to the topic of that week.
-+ [Visualization project](project-vis.md) (due Week 5).
-+ [Presentation of a paper on the science of science](paper-presentation.md) (due Weeks 11 and 12).
-+ [Final project](project-final.md) due at the end of the semester.
+| Weight | Component                                          | Description                                                                                                                               |
+|:-------|:---------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| 15%    | [Debate preparation and participation](debates.md) | These debates will be scattered throughout the semester, where the debate topics will be complementary to the topic of that week.         |
+| 15%    | [Paper presentation](paper-presentation.md)        | Presentation of a paper on the science of science. Due to week 5.                                                                         |
+| 20%    | [Visualization project](project-vis.md)            | Due Weeks 11 and 12.                                                                                                                      |
+| 40%    | [Final project](project-final.md)                  | Due at the end of the semester.                                                                                                           |
+| 10%    | Class participation                                | Weekly preparation (readings and other material)                                                                                          |
 
 ## Detailed Schedule
 
