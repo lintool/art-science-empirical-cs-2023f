@@ -8,7 +8,7 @@ I will populate this website with content throughout the semester, but if you'd 
 
 + **Semester**: Fall 2023
 + **Instructor**: [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/)
-+ **Time & Location**: Mondays 12:30pm-3:20pm, DC 2568
++ **Time & Location**: Mondays 12:30pm-3:20pm, DC 2585
 
 ## Course Description
 
