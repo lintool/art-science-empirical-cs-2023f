@@ -43,7 +43,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | Week                                                | Date  | Type      | Description                            |         Debate         |          Slides          |
 |:----------------------------------------------------|:------|:----------|:---------------------------------------|:----------------------:|:------------------------:|
 | [1](#week-1-introduction)                           | 9/11  | -         | Introduction                           |                        | [PDF](slides/week01.pdf) |
-| [2](#week-2-the-science-of-career)                  | 9/18  | "science" | The Science of Career                  | [Topic 1](debates.md)  |                          |
+| [2](#week-2-the-science-of-career)                  | 9/18  | "science" | The Science of Career                  | [Topic 1](debates.md)  | [PDF](slides/week02.pdf) |
 | [3](#week-3-the-science-of-collaboration-i)         | 9/25  | "science" | The Science of Collaboration (I)       | [Topic 2](debates.md)  |                          |
 | [4](#week-4-the-science-of-collaboration-ii)        | 10/2  | "science" | The Science of Collaboration (II)      | [Topic 3](debates.md)  |                          |
 | [5](#week-5-presentation-of-visualization-projects) | 10/16 | -         | Presentation of Visualization Projects |                        |                          |
@@ -55,24 +55,17 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [11](#week-11-paper-presentation-i)                 | 11/27 | "science" | Paper Presentations (I)                |                        |                          |
 | [12](#week-12-paper-presentation-ii)                | 12/4  | "science" | Paper Presentations (II)               |                        |                          |
 
-## Grades
+## Assignments and Grades
 
-| Weight | Component                                   |
-|:-------|:--------------------------------------------|
-| 15%    | [Debate participation](debates.md)          |
-| 15%    | [Paper presentation](paper-presentation.md) |
-| 20%    | [Visualization project](project-vis.md)     |
-| 40%    | [Final project](project-final.md)           |
+| Weight | Component                                   | Deadlines        |
+|:-------|:--------------------------------------------|:-----------------|
+| 15%    | [Debate participation](debates.md)          | Weeks 2, 3, 4, 6 |
+| 20%    | [Visualization project](project-vis.md)     | Week 5           |
+| 15%    | [Paper presentation](paper-presentation.md) | Weeks 11, 12     |
+| 40%    | [Final project](project-final.md)           | End of semester  |
 | 10%    | Class participation                         |
 
-## Assignments
-
-In addition to weekly preparation (readings and other material), the course will have the following assignments:
-
-+ [Preparation and participation in a debate.](debates.md) These debates will be scattered throughout the semester, where the debate topics will be complementary to the topic of that week.
-+ [Visualization project](project-vis.md) (due Week 5).
-+ [Presentation of a paper on the science of science](paper-presentation.md) (due Weeks 11 and 12).
-+ [Final project](project-final.md) due at the end of the semester.
+It is expected that you come to class prepared, having _completed_ the assigned readings and ready to engage in class discussions.
 
 ## Detailed Schedule
 
@@ -84,7 +77,12 @@ For more details on normative vs. positive approaches, Wikipedia provides a good
 
 ### Week 2: The Science of Career
 
-**Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Career (pages 5-80).
+**Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási:
+ 
++ Introduction
++ Part 1: The Science of Career &mdash; Chapters 1-7 (inclusive)
+
+**Slides:** [[PDF](slides/week02.pdf)]
 
 We'll be having our debate on Topic 1: How should we evaluate excellence? Quality _only_ or quality _and_ quantity?
 
@@ -93,11 +91,27 @@ We'll be having our debate on Topic 1: How should we evaluate excellence? Qualit
 
 ### Week 3: The Science of Collaboration (I)
 
-🚧 Content to be added!
+**Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási:
+
++ Part 2: The Science of Collaboration &mdash; Chapters 8-11 (inclusive)
+
+We'll be having our debate on Topic 2: Should you collaborate or not?
+
++ Position A: Early-stage researchers should actively seek out collaborations beyond their research group. Participation in multiple research projects across many different groups builds breadth.
++ Position B: Early-stage researchers should _not_ actively seek out collaborations beyond their research group. Focusing on depth is more important than breadth.
 
 ### Week 4: The Science of Collaboration (II)
 
-🚧 Content to be added!
+**Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási:
+
++ Part 2: The Science of Collaboration &mdash; Chapters 12-14 (inclusive)
+
+**Slides:** [[PDF](slides/week4.pdf)]
+
+We'll be having our debate on Topic 3: How should you approach open-sourcing computational artifacts associated with your work?
+
++ Position A: Early-stage researchers should do the minimal in open-sourcing computational artifacts that arise from their work. Doing anything more than the community norm is a waste of time and effort that could be better spent writing more papers.
++ Position B: Early-stage researchers should actively promote the adoption of computational artifacts that arise from their work, for example, contributing to popular open-source libraries. Even if this requires a lot of time (e.g., refactoring code into a production-ready state), such efforts are worthwhile.
 
 ### Week 5: Presentation of Visualization Projects
 
@@ -105,7 +119,15 @@ Presentation of visualization projects!
 
 ### Week 6: The Science of Impact
 
-🚧 Content to be added!
+**Slides:** [[PDF](slides/week6.pdf)]
+
+**Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási:
+
++ Part 3: The Science of Impact &mdash; Chapters 15-20 (inclusive)
+
+We'll be having our debate on Topic 4: Is social media a waste of time?
+  + Position A: Early-stage researchers should actively incorporate social media use as a component of their career development. This means appropriate use of sites like Twitter, Facebook, and LinkedIn to build professional reputation, engage with the community, hear about recent work by others, etc.
+  + Position B: Early-stage researchers should stay off social media. It's a complete waste of time.
 
 ### Week 7: Research as a Social Process
 
