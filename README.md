@@ -40,20 +40,20 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 
 ## Syllabus
 
-| Week                                                | Date  | Type      | Description                            |         Debate         |          Slides          |
-|:----------------------------------------------------|:------|:----------|:---------------------------------------|:----------------------:|:------------------------:|
-| [1](#week-1-introduction)                           | 9/11  | -         | Introduction                           |                        | [PDF](slides/week01.pdf) |
-| [2](#week-2-the-science-of-career)                  | 9/18  | "science" | The Science of Career                  | [Topic 1](debates.md)  | [PDF](slides/week02.pdf) |
-| [3](#week-3-the-science-of-collaboration-i)         | 9/25  | "science" | The Science of Collaboration (I)       | [Topic 2](debates.md)  |                          |
-| [4](#week-4-the-science-of-collaboration-ii)        | 10/2  | "science" | The Science of Collaboration (II)      | [Topic 3](debates.md)  |                          |
-| [5](#week-5-presentation-of-visualization-projects) | 10/16 | -         | Presentation of Visualization Projects |                        |                          |
-| [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md)  |                          |
-| [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                        |                          |
-| [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                        |                          |
-| [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                        |                          |
-| [10](#week-10-on-responsible-research)              | 11/20 | "art"     | On Responsible Research                |                        |                          |
-| [11](#week-11-paper-presentation-i)                 | 11/27 | "science" | Paper Presentations (I)                |                        |                          |
-| [12](#week-12-paper-presentation-ii)                | 12/4  | "science" | Paper Presentations (II)               |                        |                          |
+| Week                                                | Date  | Type      | Description                            |        Debate         |          Slides          |
+|:----------------------------------------------------|:------|:----------|:---------------------------------------|:---------------------:|:------------------------:|
+| [1](#week-1-introduction)                           | 9/11  | -         | Introduction                           |                       | [PDF](slides/week01.pdf) |
+| [2](#week-2-the-science-of-career)                  | 9/18  | "science" | The Science of Career                  | [Topic 1](debates.md) | [PDF](slides/week02.pdf) |
+| [3](#week-3-the-science-of-collaboration-i)         | 9/25  | "science" | The Science of Collaboration (I)       | [Topic 2](debates.md) | [PDF](slides/week03.pdf) |
+| [4](#week-4-the-science-of-collaboration-ii)        | 10/2  | "science" | The Science of Collaboration (II)      | [Topic 3](debates.md) |                          |
+| [5](#week-5-presentation-of-visualization-projects) | 10/16 | -         | Presentation of Visualization Projects |                       |                          |
+| [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md) |                          |
+| [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                       |                          |
+| [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                       |                          |
+| [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                       |                          |
+| [10](#week-10-on-responsible-research)              | 11/20 | "art"     | On Responsible Research                |                       |                          |
+| [11](#week-11-paper-presentation-i)                 | 11/27 | "science" | Paper Presentations (I)                |                       |                          |
+| [12](#week-12-paper-presentation-ii)                | 12/4  | "science" | Paper Presentations (II)               |                       |                          |
 
 ## Assignments and Grades
 
@@ -95,10 +95,14 @@ We'll be having our debate on Topic 1: How should we evaluate excellence? Qualit
 
 + Part 2: The Science of Collaboration &mdash; Chapters 8-11 (inclusive)
 
+**Slides:** [[PDF](slides/week03.pdf)]
+
 We'll be having our debate on Topic 2: Should you collaborate or not?
 
 + Position A: Early-stage researchers should actively seek out collaborations beyond their research group. Participation in multiple research projects across many different groups builds breadth.
 + Position B: Early-stage researchers should _not_ actively seek out collaborations beyond their research group. Focusing on depth is more important than breadth.
+
+Paper discussed in class: [A causal test of the strength of weak ties](https://www.science.org/doi/10.1126/science.abl4476)
 
 ### Week 4: The Science of Collaboration (II)
 
@@ -106,12 +110,14 @@ We'll be having our debate on Topic 2: Should you collaborate or not?
 
 + Part 2: The Science of Collaboration &mdash; Chapters 12-14 (inclusive)
 
-**Slides:** [[PDF](slides/week4.pdf)]
-
 We'll be having our debate on Topic 3: How should you approach open-sourcing computational artifacts associated with your work?
 
 + Position A: Early-stage researchers should do the minimal in open-sourcing computational artifacts that arise from their work. Doing anything more than the community norm is a waste of time and effort that could be better spent writing more papers.
 + Position B: Early-stage researchers should actively promote the adoption of computational artifacts that arise from their work, for example, contributing to popular open-source libraries. Even if this requires a lot of time (e.g., refactoring code into a production-ready state), such efforts are worthwhile.
+
+Interesting tweet thread:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Who should be the last/senior author on a paper? How do you decide? What does being last entail? I get these questions a lot and it’s confusing because the last author is often a senior person, running a group &amp; raising money. Do those things determine last authorship? No. (1/7)</p>&mdash; Michael Black (@Michael_J_Black) <a href="https://twitter.com/Michael_J_Black/status/1587463427773145090?ref_src=twsrc%5Etfw">November 1, 2022</a></blockquote>
 
 ### Week 5: Presentation of Visualization Projects
 
@@ -119,13 +125,12 @@ Presentation of visualization projects!
 
 ### Week 6: The Science of Impact
 
-**Slides:** [[PDF](slides/week6.pdf)]
-
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási:
 
 + Part 3: The Science of Impact &mdash; Chapters 15-20 (inclusive)
 
 We'll be having our debate on Topic 4: Is social media a waste of time?
+
   + Position A: Early-stage researchers should actively incorporate social media use as a component of their career development. This means appropriate use of sites like Twitter, Facebook, and LinkedIn to build professional reputation, engage with the community, hear about recent work by others, etc.
   + Position B: Early-stage researchers should stay off social media. It's a complete waste of time.
 
