@@ -45,7 +45,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [1](#week-1-introduction)                           | 9/11  | -         | Introduction                           |                       | [PDF](slides/week01.pdf) |
 | [2](#week-2-the-science-of-career)                  | 9/18  | "science" | The Science of Career                  | [Topic 1](debates.md) | [PDF](slides/week02.pdf) |
 | [3](#week-3-the-science-of-collaboration-i)         | 9/25  | "science" | The Science of Collaboration (I)       | [Topic 2](debates.md) | [PDF](slides/week03.pdf) |
-| [4](#week-4-the-science-of-collaboration-ii)        | 10/2  | "science" | The Science of Collaboration (II)      | [Topic 3](debates.md) |                          |
+| [4](#week-4-the-science-of-collaboration-ii)        | 10/2  | "science" | The Science of Collaboration (II)      | [Topic 3](debates.md) | [PDF](slides/week04.pdf) |
 | [5](#week-5-presentation-of-visualization-projects) | 10/16 | -         | Presentation of Visualization Projects |                       |                          |
 | [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md) |                          |
 | [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                       |                          |
@@ -109,6 +109,8 @@ Paper discussed in class: [A causal test of the strength of weak ties](https://w
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási:
 
 + Part 2: The Science of Collaboration &mdash; Chapters 12-14 (inclusive)
+
+**Slides:** [[PDF](slides/week04.pdf)]
 
 We'll be having our debate on Topic 3: How should you approach open-sourcing computational artifacts associated with your work?
 
