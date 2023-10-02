@@ -35,7 +35,7 @@ Building on this, one might compare collaboration patterns across different depa
 For example, how does Waterloo compare against Toronto?
 
 [**Waterloo AI Institute Co-Authorship Network**](https://toluclassics.github.io/wai/).
-This visualization was created by [Odunayo Ogundepo](https://toluclassics.github.io/wai/), one of my (former) Master's students.
+This visualization was created by [Odunayo Ogundepo](https://github.com/ToluClassics), one of my (former) Master's students.
 The AI Institute prides itself on a multi-disciplinary approach to AI, which we wanted to illustrate.
 
 [**Topic Modeling of AI Papers in 2022**](https://github.com/cohere-ai/notebooks#9-topic-modeling-of-ai-papers-in-2022). This is an example using vector embeddings to try to understand the "landscape" of an academic discipline (as reflected in a specific journal) in terms of textual content.
@@ -47,7 +47,7 @@ Using embeddings, we can cluster together ACM Fellows based on their contributio
 Does this tell us something about the types of research that are recognized and rewarded by the ACM?
 
 [**What are the top Canadian universities for AI research?**](https://lintool.github.io/csranking-aica/)
-This is a visualization created by [Alan Wu](https://wuliwei.xyz/), a Ph.D. student in [WatVis Lab](http://www.jeffjianzhao.com/), under my guidance.
+This is a visualization created by Alan Wu from the [WatVis Lab](http://www.jeffjianzhao.com/) under my guidance.
 The goal is quite straightforward: this visualization tries to answer the question, "What are the top Canadian universities for AI research?" based on data from [CSRankings](http://csrankings.org/).
 
 [**Big Cows 🐮: Information Retrieval**](https://lintool.github.io/bigcows/index-ir.html).
@@ -55,7 +55,7 @@ This is a personal project of mine that started over a decade ago for my own ten
 The tenure application process at Maryland mandated a bibliometric analysis of the candidate being considered for promotion, specifically in relationship to peers.
 This site arose from a simple interface to display the data, but has evolved over time to include many IR researchers.
 
-This project will be completed individually, but I will allow, with prior permission, larger projects that may involve sharing code (e.g., a common data crawler that you collaborate on building) or data (e.g., a large dataset that you perform data cleaning on together, but analyze individually).
+This project will be completed individually, but I will allow, with prior permission (i.e., ask me), larger projects that may involve sharing code (e.g., a common data crawler that you collaborate on building) or data (e.g., a large dataset that you perform data cleaning on together, but analyze individually).
 However, in the end, each student will be responsible for producing a final, distinct visualization.
 If you are interested in doing something along these lines, please get in touch with me as soon as possible.
 
