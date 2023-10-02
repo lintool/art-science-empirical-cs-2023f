@@ -28,10 +28,11 @@ If you have any questions, _ask_!
 
 Perhaps it's easiest to illustrate what I'm looking for by example, which hopefully provides sources of inspiration:
 
-[**UWaterloo CS Co-Authorship Network**](cs-collaboration-network/collabs_20230109.png). Each year before hiring season, [Ian Goldberg](https://cs.uwaterloo.ca/~iang/) scrapes information from DBLP to construct the co-authorship network for the faculty members in the School. The visualization was designed to reveal collaboration patterns between different faculty and groups within the School.
+[**UWaterloo CS Co-Authorship Network**](cs-collaboration-network/collabs_20230109.png). Each year before hiring season, [Ian Goldberg](https://cs.uwaterloo.ca/~iang/) scrapes information from DBLP to construct the co-authorship network for faculty in the school. The visualization is designed to show collaboration patterns between different faculty and groups within the school.
 Note that this is _static_ visualization, so it would not meet my expectations above.
 However, an _interactive_ version of this network would be a good project.
-Building on this, one might compare collaboration patterns across different departments.
+If you're interested in working on this, the raw data are stored [here](cs-collaboration-network/).
+Building on this, one might compare collaboration patterns across different institutions.
 For example, how does Waterloo compare against Toronto?
 
 [**Waterloo AI Institute Co-Authorship Network**](https://toluclassics.github.io/wai/).
