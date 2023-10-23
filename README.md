@@ -47,7 +47,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [3](#week-3-the-science-of-collaboration-i)         | 9/25  | "science" | The Science of Collaboration (I)       | [Topic 2](debates.md) | [PDF](slides/week03.pdf) |
 | [4](#week-4-the-science-of-collaboration-ii)        | 10/2  | "science" | The Science of Collaboration (II)      | [Topic 3](debates.md) | [PDF](slides/week04.pdf) |
 | [5](#week-5-presentation-of-visualization-projects) | 10/16 | -         | Presentation of Visualization Projects |                       |                          |
-| [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md) |                          |
+| [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md) | [PDF](slides/week06.pdf) |
 | [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                       |                          |
 | [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                       |                          |
 | [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                       |                          |
@@ -130,6 +130,8 @@ Presentation of visualization projects!
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási:
 
 + Part 3: The Science of Impact &mdash; Chapters 15-20 (inclusive)
+
+**Slides:** [[PDF](slides/week06.pdf)]
 
 We'll be having our debate on Topic 4: Is social media a waste of time?
 
