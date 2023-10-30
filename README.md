@@ -48,7 +48,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [4](#week-4-the-science-of-collaboration-ii)        | 10/2  | "science" | The Science of Collaboration (II)      | [Topic 3](debates.md) | [PDF](slides/week04.pdf) |
 | [5](#week-5-presentation-of-visualization-projects) | 10/16 | -         | Presentation of Visualization Projects |                       |                          |
 | [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md) | [PDF](slides/week06.pdf) |
-| [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                       |                          |
+| [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                       | [PDF](slides/week07.pdf) |
 | [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                       |                          |
 | [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                       |                          |
 | [10](#week-10-on-responsible-research)              | 11/20 | "art"     | On Responsible Research                |                       |                          |
@@ -140,7 +140,28 @@ We'll be having our debate on Topic 4: Is social media a waste of time?
 
 ### Week 7: Research as a Social Process
 
-🚧 Content to be added!
+
+**Slides:** [[PDF](slides/week07.pdf)]
+
+Links to content discussed in class:
+
++ [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
++ [Report by the ACL 2022 PC Chairs](https://docs.google.com/document/d/1NMuyNOMQD4Xt-tqh4CgiTYEkyhFAQBGFwcyfUCi2obc/edit)
+
+Supplemental readings:
+
++ Becerra et al. [Maximizing the Conference Experience: Tips to Effectively Navigate Academic Conferences Early in Professional Careers.](https://link.springer.com/article/10.1007/s40617-019-00406-w), _Behavior Analysis in Practice_, 13(3):479-491, 2020.
++ Leininger et al. [Ten Simple Rules for Attending Your First Conference.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009133) _PLoS Computational Biology_, 17(7):e1009133, 2021.
+
+Some review horror stories:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just got a desk reject, post-rebuttals, for a paper being submitted to arxiv &lt;30 min late for the anonymity deadline. I talk about how the ACL embargo policy hurts junior researchers and makes ACL venues less desirable for NLP work. I don’t talk about the pointless NOISE it adds.</p>&mdash; Naomi Saphra 🟣 (@nsaphra) <a href="https://twitter.com/nsaphra/status/1698697352238813538?ref_src=twsrc%5Etfw">September 4, 2023</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I AM SO ANGRY. I won&#39;t submit to ACL venues again after they shafted a student after rebuttals with this idiotic policy. Since anonymity is gone, though, publicity time! Check out awesome work by <a href="https://twitter.com/ZackAnkner?ref_src=twsrc%5Etfw">@ZackAnkner</a> on improving MLM training by scheduling masking: <a href="https://t.co/fQ4SVLgFs9">https://t.co/fQ4SVLgFs9</a> <a href="https://t.co/jSUJo4cswf">https://t.co/jSUJo4cswf</a></p>&mdash; Jonathan Frankle (@jefrankle) <a href="https://twitter.com/jefrankle/status/1698802895204864143?ref_src=twsrc%5Etfw">September 4, 2023</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">from <a href="https://twitter.com/hashtag/ICLR2023?src=hash&amp;ref_src=twsrc%5Etfw">#ICLR2023</a> <a href="https://t.co/5QpGAv0xUs">pic.twitter.com/5QpGAv0xUs</a></p>&mdash; Rob Tang (@XiangruTang) <a href="https://twitter.com/XiangruTang/status/1589703605098975237?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our Meta OT paper was rejected from @NeurIPS despite having WA/A/SA throughout the discussion period. How did it happen? The AC based the decision on a review that came a month late that we couldn&#39;t even respond to.<br><br>We&#39;ve made the full discussion public:<a href="https://t.co/ISx9afxhyA">https://t.co/ISx9afxhyA</a> <a href="https://t.co/lBXqPWM6KL">pic.twitter.com/lBXqPWM6KL</a></p>&mdash; Brandon Amos (@brandondamos) <a href="https://twitter.com/brandondamos/status/1589639655003066369?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote>
 
 ### Week 8: On Working With Your Advisor
 
