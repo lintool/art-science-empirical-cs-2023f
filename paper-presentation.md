@@ -2,8 +2,8 @@
 
 **The Art and Science of Empirical Computer Science (Fall 2023)**
 
-In this assignment, you will each individually deliver a 10-minute presentation about a paper of your choosing, related to any of the topics covered in this course.
-Anything broadly in the space of ["meta-research"](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005468) would be in scope.
+In this assignment, you will each *individually* deliver a 10-minute presentation about a paper of your choosing, related to any of the topics covered in this course.
+Anything broadly in the space of ["meta-research"](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005468) is in scope.
 
 Here are some specific examples:
 
@@ -26,8 +26,8 @@ In your presentation, make sure you cover the following important elements of pa
 + Contributions
 + Impact
 
-And finally, address the question: "What does this mean for me?"
-Does the paper offer any operationalizable advice for __my__ career development?
+And finally, address the question: "What does this mean for **me**?"
+Does the paper offer any operationalizable advice for **my** career development?
 
 I would advise talking about the above points for around 8 minutes, leaving 2 minutes for questions and a quick discussion.
 Your presentation slides **must** be accessible via a URL, which I will collect prior to the class session.
