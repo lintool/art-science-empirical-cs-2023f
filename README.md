@@ -49,7 +49,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [5](#week-5-presentation-of-visualization-projects) | 10/16 | -         | Presentation of Visualization Projects |                       |                          |
 | [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md) | [PDF](slides/week06.pdf) |
 | [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                       | [PDF](slides/week07.pdf) |
-| [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                       |                          |
+| [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                       | [PDF](slides/week08.pdf) |
 | [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                       |                          |
 | [10](#week-10-on-responsible-research)              | 11/20 | "art"     | On Responsible Research                |                       |                          |
 | [11](#week-11-paper-presentation-i)                 | 11/27 | "science" | Paper Presentations (I)                |                       |                          |
@@ -165,7 +165,21 @@ Some review horror stories:
 
 ### Week 8: On Working With Your Advisor
 
-🚧 Content to be added!
+**Slides:** [[PDF](slides/week08.pdf)]
+
+Links to content discussed in class:
+
++ [The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/)
++ [Marriage v. The Ph.D.](https://phdcomics.com/comics/archive.php?comicid=1296)
++ [Average time spent writing one e-mail](https://phdcomics.com/comics/archive.php?comicid=1047)
+
+Interesting tweet threads related to class discussion:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to work with your advisor(s)?<br><br>Working effectively with your advisor is the no doubt the key to success of your research! However, junior grad students often don&#39;t have a clear idea on how to do so. <br><br>Sharing some tips that I found useful. 👇</p>&mdash; Jia-Bin Huang (@jbhuang0604) <a href="https://twitter.com/jbhuang0604/status/1546361365778022400?ref_src=twsrc%5Etfw">July 11, 2022</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to come up with research ideas?<br><br>Excited about starting doing research but have no clue?🤷‍♂️🤷🏻‍♀️ Here are some simple methods that I found useful in identifying initial directions.<br><br>Check out the thread below 👇</p>&mdash; Jia-Bin Huang (@jbhuang0604) <a href="https://twitter.com/jbhuang0604/status/1423499757591400448?ref_src=twsrc%5Etfw">August 6, 2021</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If founders don’t sleep, bad stuff happens, in 4 studies:<br>1) Lack of 💤makes you generate worse ideas<br>2) Lack of 💤 makes you think the bad ideas you develop are good<br>3) Getting 💤 boosts your mood, upping the mood of your startup<br>4) Lack of 💤 lowers your entrepreneurial ability <a href="https://t.co/pqPOucy1rp">pic.twitter.com/pqPOucy1rp</a></p>&mdash; Ethan Mollick (@emollick) <a href="https://twitter.com/emollick/status/1589620739388293120?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote>
 
 ### Week 9: On Writing Papers
 
