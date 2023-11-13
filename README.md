@@ -50,7 +50,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [6](#week-6-the-science-of-impact)                  | 10/23 | "science" | The Science of Impact                  | [Topic 4](debates.md) | [PDF](slides/week06.pdf) |
 | [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                       | [PDF](slides/week07.pdf) |
 | [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                       | [PDF](slides/week08.pdf) |
-| [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                       |                          |
+| [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                       | [PDF](slides/week09.pdf) |
 | [10](#week-10-on-responsible-research)              | 11/20 | "art"     | On Responsible Research                |                       |                          |
 | [11](#week-11-paper-presentation-i)                 | 11/27 | "science" | Paper Presentations (I)                |                       |                          |
 | [12](#week-12-paper-presentation-ii)                | 12/4  | "science" | Paper Presentations (II)               |                       |                          |
@@ -183,7 +183,25 @@ Interesting tweet threads related to class discussion:
 
 ### Week 9: On Writing Papers
 
-🚧 Content to be added!
+**Slides:** [[PDF](slides/week09.pdf)]
+
+
+Papers used in the abstract analysis exercise:
+
++ [Nature abstract template](https://www.nature.com/documents/nature-summary-paragraph.pdf)
++ Deng et al. [ImageNet: A Large-Scale Hierarchical Image Database.](https://ieeexplore.ieee.org/document/5206848) _CVPR 2009_. (59k citations)
++ Krizhevsky et al. [ImageNet Classification with Deep Convolutional Neural Networks.](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) _NIPS 2012_. (122k citations)
++ Devlin et al. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.](https://aclanthology.org/N19-1423/) _NAACL 2019_. (83k citations)
++ Radford et al. [Improving Language Understanding by Generative Pre-Training.](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) (7k citations)
++ Peters et al. [Deep Contextualized Word Representations.](https://aclanthology.org/N18-1202/) _NAACL 2018_. (14k citations)
++ Vaswani et al. [Attention Is All You Need.](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) _NIPS 2017_. (97k citations)
+
+Links to content discussed in class:
+
++ [Writing Is Thinking](https://www.insidehighered.com/blogs/higher-ed-gamma/writing-thinking)
++ Mensh and Kording. [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) _PLoS Computational Biology_, 13(9):e1005619, 2017.
++ Baquero. [Picking Publication Targets.](https://cacm.acm.org/magazines/2022/3/258896-picking-publication-targets/fulltext) _CACM_, 65(3):10-11, 2022.
++ My [writing pet peeves](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md)
 
 ### Week 10: On Responsible Research
 
