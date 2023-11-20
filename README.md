@@ -51,7 +51,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [7](#week-7-research-as-a-social-process)           | 10/30 | "art"     | Research as a Social Process           |                       | [PDF](slides/week07.pdf) |
 | [8](#week-8-on-working-with-your-advisor)           | 11/6  | "art"     | On Working With Your Advisor           |                       | [PDF](slides/week08.pdf) |
 | [9](#week-9-on-writing-papers)                      | 11/13 | "art"     | On Writing Papers                      |                       | [PDF](slides/week09.pdf) |
-| [10](#week-10-on-responsible-research)              | 11/20 | "art"     | On Responsible Research                |                       |                          |
+| [10](#week-10-on-responsible-research)              | 11/20 | "art"     | On Responsible Research                |                       | [PDF](slides/week10.pdf) |
 | [11](#week-11-paper-presentation-i)                 | 11/27 | "science" | Paper Presentations (I)                |                       |                          |
 | [12](#week-12-paper-presentation-ii)                | 12/4  | "science" | Paper Presentations (II)               |                       |                          |
 
@@ -205,7 +205,15 @@ Links to content discussed in class:
 
 ### Week 10: On Responsible Research
 
-🚧 Content to be added!
+**Slides:** [[PDF](slides/week10.pdf)]
+
+Links to content discussed in class:
+
++ [Distributive Justice](https://plato.stanford.edu/entries/justice-distributive/): entry from Stanford Encyclopedia of Philosophy.
++ Dressel et al. [The accuracy, fairness, and limits of predicting recidivism.](https://www.science.org/doi/10.1126/sciadv.aao5580) _Science Advances_, 4(1), 2018.
++ Wen et al. [Characteristics of publicly available skin cancer image datasets: a systematic review.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00252-1/fulltext) _The Lancet_, 4(1), E64-E74, 2022.
++ Friedler et al. [The (Im)possibility of fairness: different value systems require different mechanisms for fair decision making.](https://dl.acm.org/doi/10.1145/3433949) _ACM_, 64(4)136-143, 2021.
++ Ghassemi et al. [The false hope of current approaches to explainable artificial intelligence in health care.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext) _The Lancet_, 3(11):E745-E750, 2021.
 
 ### Week 11: Paper Presentation (I)
 
